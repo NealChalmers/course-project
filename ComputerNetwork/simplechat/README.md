@@ -1,0 +1,1 @@
+Before you run this project, you need to compile the clients code and server code in different project.
