@@ -69,6 +69,7 @@ int main(int argc, char ** argv)
 	}
 	*/
 	/* Winsock2.0*/
+	//加入多播组
 	if ((sockM = WSAJoinLeaf(sock, (SOCKADDR*)&remote, sizeof(remote),
 		NULL, NULL, NULL, NULL,
 		JL_BOTH)) == INVALID_SOCKET)
