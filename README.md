@@ -1,2 +1,2 @@
-# curriculum-project
-Projects of curriculum-project
+# course-project
+Course practice projects
